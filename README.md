@@ -19,11 +19,11 @@ apt-get install docker -y
  ```
 #########
 
-------now on google search for "install docker compose", click "Overview of Installing Docker Compose",scroll down and you will see "install the Compose standalone" and click on it, now run that twp installation commands , first command is => 
+------now on google search for "install docker compose", click "Overview of Installing Docker Compose",scroll down and you will see "install the Compose standalone" and click on it, now run that two installation commands , first command will be given as => 
 ```bash
 curl -SL https://github.com/docker/compose/releases/download/v2.27.0/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose 
  ```
- second command is => 
+ second command will be given as => 
 ```bash
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
  ```
