@@ -49,6 +49,9 @@ ifconfig
  cd /home/abhishek/owncloud-docker-server
   ```
 
+-------in above command inplace of "abhishek" whatever your system's username is there, that must be used--------
+
+
 ```bash
  docker-compose up -d
   ```
