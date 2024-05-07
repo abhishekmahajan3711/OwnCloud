@@ -17,7 +17,7 @@ apt-get install docker -y
  ```bash
  dcoker --version
  ```
-#########
+################################################
 
 ------now on google search for "install docker compose", click "Overview of Installing Docker Compose",scroll down and you will see "install the Compose standalone" and click on it, now run that two installation commands , first command will be given as => 
 ```bash
@@ -27,7 +27,7 @@ curl -SL https://github.com/docker/compose/releases/download/v2.27.0/docker-comp
 ```bash
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
  ```
-##########
+################################################
 
 
 
@@ -49,12 +49,12 @@ ifconfig
  cd /home/abhishek/owncloud-docker-server
   ```
 
--------in above command inplace of "abhishek" whatever your system's username is there, that must be used--------
+-------in above command inplace of "abhishek" whatever your system's username is there, that must be used------
 
 
 ```bash
  docker-compose up -d
   ```
 
-------now go in browser and go to "localhost:8080" and sign in by username: admin and password:admin , in phone you can put ip address 192.something:8080---------
+------now go in browser and go to "localhost:8080" and sign in by username: admin and password:admin , in phone you can put ip address 192.something:8080, make sure that other device(for e.g. phone) is connected with same WiFi or LAN connection --------
 
