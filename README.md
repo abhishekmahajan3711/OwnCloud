@@ -15,7 +15,7 @@ apt-get install docker -y
  service docker start
  ```
  ```bash
- dcoker --version
+ docker --version
  ```
 ################################################
 
